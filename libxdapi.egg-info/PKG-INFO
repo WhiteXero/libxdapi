@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: libxdapi
+Version: 1.0.1
+Summary: Xdnmb api lib
+Home-page: https://github.com/WhiteXero/libxdapi
+Author: xero
+Author-email: whitexero@outlook.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# libxdapi - X岛API Python库
+
+### API文档来源：https://github.com/TransparentLC/xdcmd
+### Python 版本要求 ≥ 3.0 ，基于 Requests 库
+
+### API 文档整合：https://xd.entech.link
+
+#### 因同步问题，安装时请使用官方源。

@@ -1,9 +1,9 @@
 import setuptools
-with open("README.md", "r") as fh:
+with open("README.md", "r", encoding='utf-8') as fh:
     long_description = fh.read()
 setuptools.setup(
     name="libxdapi",  # 模块名称
-    version="1.0.0",  # 当前版本
+    version="1.0.1",  # 当前版本
     author="xero",  # 作者
     author_email="whitexero@outlook.com",  # 作者邮箱
     description="Xdnmb api lib",  # 模块简介
