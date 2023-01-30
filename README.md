@@ -1,5 +1,5 @@
 # libxdapi - X岛API Python库
-## 反馈串：https://nmbxd.com/t/50750950
+## 反馈串：https://nmbxd.com/t/55202506
 
 ## 安装：```pip install libxdapi -i https://pypi.org/simple/```
 
